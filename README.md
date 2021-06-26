@@ -1,1 +1,1 @@
-# Full Stack project with Django, Django REST FRAMEWORK and React
+# Full Stack project with Django, Django REST Framework and React
